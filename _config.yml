@@ -1,0 +1,14 @@
+layout_spectrum: 0.04902218
+typography_spectrum: 0.02661379
+color:
+  saturation: 0.2775365
+  lightness: 0.004417157
+  brandStrength: 0.09052182
+  rhythmicContrast: 0.2720304
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: Exploring The World
